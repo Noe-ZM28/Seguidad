@@ -1,0 +1,7 @@
+.align-text-justify{
+    text-align: justify;
+}
+.aumentar:hover {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
