@@ -18,52 +18,54 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 
-    <script type="text/javascript"> 
-        function disableselect(e){  
-        return false  
-        }  
+    <script type="text/javascript">
+        function disableselect(e) {
+            return false
+        }
 
-        function reEnable(){  
-        return true  
-        }  
+        function reEnable() {
+            return true
+        }
 
         //if IE4+  
-        document.onselectstart=new Function ("return false")  
-        document.oncontextmenu=new Function ("return false")  
+        document.onselectstart = new Function("return false")
+        document.oncontextmenu = new Function("return false")
         //if NS6  
-        if (window.sidebar){  
-        document.onmousedown=disableselect  
-        document.onclick=reEnable  
+        if (window.sidebar) {
+            document.onmousedown = disableselect
+            document.onclick = reEnable
         }
     </script>
 
 
 
 </head>
-
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="./home.php">Navbar</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./noticias.php">Noticias</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./unidad_4.php">Unidad 4</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./trabajo_unidad3.php">Trabajo Unidad 3</a>
-                </li>
-            </ul>
+<center>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="./home"><img src="../Multimedia/Imagenes/Master.gif" width="50" height="50"></img></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="./home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./noticias">Noticias</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./trabajo_unidad3">Trabajo Unidad 3</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./unidad_4">Unidad 4</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </div>
-</nav>
-
+    </nav>
+</center>
 
 <body>
+    <!--<div class="min-vh-100">-->

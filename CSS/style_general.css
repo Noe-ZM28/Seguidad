@@ -1,7 +1,28 @@
 .align-text-justify{
     text-align: justify;
 }
+.align-text-center{
+        text-align:center; 
+        vertical-align: middle;
+}
 .aumentar:hover {
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.nav-tabs {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
