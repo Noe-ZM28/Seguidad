@@ -41,7 +41,7 @@
 
 </head>
 <center>
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+    <nav class="navbar navbar-expand-sm bg-secondary navbar-dark fixed-top">
         <div class="container-fluid">
             <a class="navbar-brand" href="./home"><img src="../Multimedia/Imagenes/Master.gif" width="50" height="50"></img></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,16 +50,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="./home">Home</a>
+                        <a class="nav-link fw-bold text-dark" href="./home">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./noticias">Noticias</a>
+                        <a class="nav-link fw-bold text-dark" href="./noticias">Noticias</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./trabajo_unidad3">Trabajo Unidad 3</a>
+                        <a class="nav-link fw-bold text-dark" href="./trabajo_unidad3">Trabajo Unidad 3</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="./unidad_4">Unidad 4</a>
+                        <a class="nav-link fw-bold text-dark" href="./unidad_4">Unidad 4</a>
                     </li>
                 </ul>
             </div>
@@ -68,4 +68,5 @@
 </center>
 
 <body>
-    <!--<div class="min-vh-100">-->
+    <div class="min-vh-100">
+        

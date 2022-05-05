@@ -1,4 +1,4 @@
-<!-- </div> -->
+</div>
 </body>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" crossorigin="anonymous">
@@ -81,12 +81,14 @@
     </symbol>
 </svg>
 
-<footer class="pt-5 bg-dark">
+<footer class="pt-5 bg-secondary ">
     <div class="container">
-        <div class="row">
+        <div class="row ">
             <div class="col-sm-3 col-md-5">
-                <ul class="list-unstyled">
-                    <h3 class="card-title">¡Siguenos en nuestras redes sociales!</h3>
+                <ul class="list-unstyled ">
+                    <h3 class="card-title">
+                    <p class="fw-bold text-dark">¡Siguenos en nuestras redes sociales!</p>    
+                    </h3>
                     <div class="template-demo">
                         <center>
                             <a target="_blank" href="https://www.facebook.com/" class="link-dark">
@@ -115,13 +117,13 @@
             </div>
             <div class="col-xs-12 col-md-6">
                 <div class="col-xs-12 no-padding">
-                    <h3 class="text-headline">Contenido</h3>
-                    <p class="align-text-justify">Esta página es una practica para la materia de Tecnologias de Seguridad en Software.</p>
+                    <h3 class="text-headline"><p class="fw-bold text-dark">Contenido</p>  </h3>
+                    <p class="align-text-justify fw-bold text-dark">Esta página es una practica para la materia de Tecnologias de Seguridad en Software.</p>
                 </div>
             </div>
         </div>
         <br></br>
-        <p class="text-subhead align-text-justify">
+        <p class="text-subhead align-text-justify fw-bold text-dark">
             &copy;
             <span id="copyright">
                 <script>
