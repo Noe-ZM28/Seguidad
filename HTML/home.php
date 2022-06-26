@@ -5,8 +5,7 @@
 	<strong>!Hola, recuerda que nuestro sitio no utiliza cookies¡</strong>
 	<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 </div>
-
-<?php include('Include/en_construccion.php') ?>
-
+<!-- rounded mx-auto d-block -->
+<img src="../Multimedia/Imagenes/ciberseguridad.jpg" class="img-fluid" alt="...">
 
 <?php include('Include/Footer.php') ?>

@@ -49,6 +49,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav mx-auto">
+                    
                     <li class="nav-item">
                         <a class="nav-link fw-bold text-dark" href="./home">Home</a>
                     </li>
@@ -61,12 +62,15 @@
                     <li class="nav-item">
                         <a class="nav-link fw-bold text-dark" href="./unidad_4">Unidad 4</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link fw-bold text-dark" href="./encriptacion">Encriptación</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fw-bold text-dark" href="./sobre_nosotros">Sobre nosotros</a>
+                    </li>
                 </ul>
             </div>
         </div>
     </nav>
 </center>
-
-<body>
-    <div class="min-vh-100">
         

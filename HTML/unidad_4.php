@@ -18,28 +18,57 @@
         <button class="nav-link fw-bold text-dark" id="actividad_4-tab" data-bs-toggle="pill" data-bs-target="#actividad_4" type="button" role="tab" aria-controls="actividad_4" aria-selected="false">
             Actividad 4
         </button>
-
-
-
     </div>
     <div class="tab-content" id="v-pills-tabContent">
         <div class="tab-pane fade show active" id="actividad_1" role="tabpanel" aria-labelledby="actividad_1-tab">
             <center>
                 <p class="fs-3 ">Actividad 1</p>
             </center>
-            <div class="align-text-justify">
-            <?php include('Include/en_construccion.php') ?>
-
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quos fuga assumenda labore ratione at rerum quibusdam ipsam eveniet cumque doloribus sequi consequuntur dolore animi itaque, atque quaerat quisquam facere autem nobis tenetur vitae quas saepe! Dolorum aspernatur fuga quam explicabo officiis aliquam consenon neque? Accusamus dolorum, nesciunt perferendis vitae ipsa nam labore reiciendis consectetur nemo voluptatum inventore, doloribus adipisci. Consequuntur quibusdam officia corrupti dolorum fugit molestiae. Quibusdam fugiat ad voluptatem, culpa facilis sed error, ratione illo enim saepe cum voluptatum explicabo eveniet, eligendi asperiores exercitationem voluptate necessitatibus dolorum recusandae facere tempora a. Error iure, eaque cupiditate facilis rem aitatis quidem. Suscipit praesentium consequuntur hic reprehenderit soluta delectus libero, excepturi quis ea maxime? Cupiditate animi amet, reiciendis delectus voluptates eaque laudantium accusantium sed recusandae, id corrupti. Quod nulla est veritatis unde laudantium incidunt adipisci cupiditate optio velit repellat illum odit excepturi dolor consequuntur ad, delectus mollitia doloremque, reprehenderit reiciendis recusandae repellendus. Eaque, explicabo labore!            </div>
+            <br>
+            <div class="card">
+                <h5 class="card-header fw-bold text-dark">4.1 Modelos de Seguridad -------------------- viernes, 20 de mayo de 2022, 14:07
+                </h5>
+                <div class="card-body">
+                    <div class="ratio ratio-1x1" style="--bs-aspect-ratio: 100%;">
+                        <iframe src="../Files/ZuñigaN-4.1.pdf" title="Document 3° unit"></iframe>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div class="tab-pane fade" id="actividad_2" role="tabpanel" aria-labelledby="actividad_2-tab">
             <center>
                 <p class="fs-3 ">Actividad 2</p>
             </center>
-            <div class="align-text-justify">
-            <?php include('Include/en_construccion.php') ?>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quos fuga assumenda labore ratione at rerum quibusdam ipsam eveniet cumque doloribus sequi consequuntur dolore animi itaque, atque quaerat quisquam facere autem nobis tenetur vitae quas saepe! Dolorum aspernatur fuga quam explicabo officiis aliquam consenon neque? Accusamus dolorum, nesciunt perferendis vitae ipsa nam labore reiciendis consectetur nemo voluptatum inventore, doloribus adipisci. Consequuntur quibusdam officia corrupti dolorum fugit molestiae. Quibusdam fugiat ad voluptatem, culpa facilis sed error, ratione illo enim saepe cum voluptatum explicabo eveniet, eligendi asperiores exercitationem voluptate necessitatibus dolorum recusandae facere tempora a. Error iure, eaque cupiditate facilis rem aitatis quidem. Suscipit praesentium consequuntur hic reprehenderit soluta delectus libero, excepturi quis ea maxime? Cupiditate animi amet, reiciendis delectus voluptates eaque laudantium accusantium sed recusandae, id corrupti. Quod nulla est veritatis unde laudantium incidunt adipisci cupiditate optio velit repellat illum odit excepturi dolor consequuntur ad, delectus mollitia doloremque, reprehenderit reiciendis recusandae repellendus. Eaque, explicabo labore!
+            <BR></BR>
+            <div class="row row-cols-1 row-cols-md-3 g-9">
+                <div class="card">
+                    <h5 class="card-header fw-bold text-dark">-------------------------- NORMA ISO 27001 --------------------------
+                    </h5>
+                    <div class="card-body">
+                        <div class="ratio ratio-1x1" style="--bs-aspect-ratio: 100%;">
+                            <iframe src="../Files/une-en_iso-iec_27001.pdf" title="Document 3° unit"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <h5 class="card-header fw-bold text-dark">-------------------------- NORMA ISO 27002 --------------------------
+                    </h5>
+                    <div class="card-body">
+                        <div class="ratio ratio-1x1" style="--bs-aspect-ratio: 100%;">
+                            <iframe src="../Files/une-en_iso-iec_27002.pdf" title="Document 3° unit"></iframe>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <h5 class="card-header fw-bold text-dark">-------------------------- PRESENTACIÓN NORMAS ISO 27002 Y 27001 --------------------------
+                    </h5>
+                    <div class="card-body">
+                        <div class="ratio ratio-1x1" style="--bs-aspect-ratio: 100%;">
+                            <iframe src="../Files/ISO 27000.pdf" title="Document 3° unit"></iframe>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -47,10 +76,14 @@
             <center>
                 <p class="fs-3 ">Actividad 3</p>
             </center>
-            <div class="align-text-justify">
-            <?php include('Include/en_construccion.php') ?>
-
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quos fuga assumenda labore ratione at rerum quibusdam ipsam eveniet cumque doloribus sequi consequuntur dolore animi itaque, atque quaerat quisquam facere autem nobis tenetur vitae quas saepe! Dolorum aspernatur fuga quam explicabo officiis aliquam consenon neque? Accusamus dolorum, nesciunt perferendis vitae ipsa nam labore reiciendis consectetur nemo voluptatum inventore, doloribus adipisci. Consequuntur quibusdam officia corrupti dolorum fugit molestiae. Quibusdam fugiat ad voluptatem, culpa facilis sed error, ratione illo enim saepe cum voluptatum explicabo eveniet, eligendi asperiores exercitationem voluptate necessitatibus dolorum recusandae facere tempora a. Error iure, eaque cupiditate facilis rem aitatis quidem. Suscipit praesentium consequuntur hic reprehenderit soluta delectus libero, excepturi quis ea maxime? Cupiditate animi amet, reiciendis delectus voluptates eaque laudantium accusantium sed recusandae, id corrupti. Quod nulla est veritatis unde laudantium incidunt adipisci cupiditate optio velit repellat illum odit excepturi dolor consequuntur ad, delectus mollitia doloremque, reprehenderit reiciendis recusandae repellendus. Eaque, explicabo labore!
+            <div class="card">
+                <h5 class="card-header fw-bold text-dark">Actividad 2. DIA 24. MAYO A7-A9 ISO 27002 -------------------- martes, 24 de mayo de 2022, 23:46
+                </h5>
+                <div class="card-body">
+                    <div class="ratio ratio-1x1" style="--bs-aspect-ratio: 100%;">
+                        <iframe src="../Files/ZúñigaN_Actividad2.pdf" title="Document 3° unit"></iframe>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -58,14 +91,17 @@
             <center>
                 <p class="fs-3 ">Actividad 4</p>
             </center>
-            <div class="align-text-justify">
-            <?php include('Include/en_construccion.php') ?>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quos fuga assumenda labore ratione at rerum quibusdam ipsam eveniet cumque doloribus sequi consequuntur dolore animi itaque, atque quaerat quisquam facere autem nobis tenetur vitae quas saepe! Dolorum aspernatur fuga quam explicabo officiis aliquam consenon neque? Accusamus dolorum, nesciunt perferendis vitae ipsa nam labore reiciendis consectetur nemo voluptatum inventore, doloribus adipisci. Consequuntur quibusdam officia corrupti dolorum fugit molestiae. Quibusdam fugiat ad voluptatem, culpa facilis sed error, ratione illo enim saepe cum voluptatum explicabo eveniet, eligendi asperiores exercitationem voluptate necessitatibus dolorum recusandae facere tempora a. Error iure, eaque cupiditate facilis rem aitatis quidem. Suscipit praesentium consequuntur hic reprehenderit soluta delectus libero, excepturi quis ea maxime? Cupiditate animi amet, reiciendis delectus voluptates eaque laudantium accusantium sed recusandae, id corrupti. Quod nulla est veritatis unde laudantium incidunt adipisci cupiditate optio velit repellat illum odit excepturi dolor consequuntur ad, delectus mollitia doloremque, reprehenderit reiciendis recusandae repellendus. Eaque, explicabo labore!
+            <div class="card">
+                <h5 class="card-header fw-bold text-dark">ENTREGA FINAL DE AVANCES DÍA 28 DE MAYO A13-A18 DEL ISO 27002 -------------------- sábado, 28 de mayo de 2022, 19:33
+
+                </h5>
+                <div class="card-body">
+                    <div class="ratio ratio-1x1" style="--bs-aspect-ratio: 100%;">
+                        <iframe src="../Files/ISO_27002.pdf" title="Document 3° unit"></iframe>
+                    </div>
+                </div>
             </div>
         </div>
-
-
-
     </div>
 </div>
 <?php include('Include/Footer.php') ?>
